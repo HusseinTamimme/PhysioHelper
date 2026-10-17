@@ -1,6 +1,6 @@
 streamlit
 mediapipe
 opencv-python-headless
-numpy
 streamlit-webrtc
 av
+protobuf<4
