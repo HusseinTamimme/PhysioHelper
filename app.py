@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1FdSV8f_7If_hXXqlA3XZ1mefuoN1p9jP
 """
 
-!pip install streamlit mediapipe opencv-python numpy
 import streamlit as st
 import cv2
 import mediapipe as mp
